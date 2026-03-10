@@ -5,7 +5,7 @@
             "namespace": "android_app",
             "package_name": "com.lab_attendance.operator",
             "sha256_cert_fingerprints": [
-                "D7:A4:33:92:15:F8:74:9E:5C:F3:EA:C5:B8:33:71:63:27:15:3B:4B:28:8B:EF:00:86:CE:95:89:BF:6A:54:4D"
+                "88:73:9E:E0:39:15:E0:D3:08:70:3A:27:4B:69:01:AC:9A:E5:5D:EE:CF:DC:CB:FA:C2:6D:CB:7D:1A:28:13:26"
             ]
         }
   },
@@ -25,7 +25,7 @@
             "namespace": "android_app",
             "package_name": "com.example.lab_attendance_mobile.student",
             "sha256_cert_fingerprints": [
-                "D7:A4:33:92:15:F8:74:9E:5C:F3:EA:C5:B8:33:71:63:27:15:3B:4B:28:8B:EF:00:86:CE:95:89:BF:6A:54:4D"        
+                "86:F9:8F:0E:E7:F2:F0:A4:AE:4A:FD:8D:E0:20:AC:F2:0F:9C:B6:C3:18:F5:D5:A9:37:78:1A:33:9B:3A:4A:C0"
       ]
     }
   }
